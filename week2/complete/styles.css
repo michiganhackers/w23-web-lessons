@@ -1,0 +1,16 @@
+img {
+    opacity: 0;
+}
+
+p > span {
+    font-weight: bold;
+}
+
+div ~ div {
+    margin-top: 24px;
+}
+
+#new-inputs > input {
+    display: block;
+    margin: 4px 0;
+}
