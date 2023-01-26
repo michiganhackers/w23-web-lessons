@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Second Site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div>
+    <img alt="hidden image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png">
+    <p>Current Date: <span id="date-location">default</span></p>
+    <p>Current Time: <span id="time-location">default</span></p>
+    <button id="update-date">Update Date</button>
+    <button id="update-time">Update Time</button>
+</div>
+<div id="copying-buttons">
+    <!-- This is a button that will copy itself when you click it, and remove itself when you ctrl-click it-->
+    <button id="copy">Click to make a copy of me. I am button 1</button>
+</div>
+<div>
+    <h2>Online number adder</h2>
+    <form id="input-creation-form">
+        <label>
+            Select the number of inputs you wish to create
+            <input id="input-count" type="number">
+        </label>
+        <button type="submit">Create</button>
+    </form>
+    <div id="new-inputs">
+
+    </div>
+    <button id="calculate">Calculate!</button>
+    <p id="results"></p>
+</div>
+<script src="part1.js"></script>
+<script src="part2.js"></script>
+<script src="part3.js"></script>
+</body>
+</html>
