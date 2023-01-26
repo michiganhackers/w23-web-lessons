@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: ghostwhite;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  margin: 0;
+}
+
+h2 {
+  color: #333;
+}
+
+img {
+  width: 400px;
+}
+
+a {
+  color: dodgerblue;
+}
+
+a:hover {
+  color: deepskyblue;
+}
+
+input {
+  padding: 8px;
+  font-size: 14px;
+  margin-bottom: 10px;
+  width: 400px;
+}
+
+button {
+  background: dodgerblue;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  width: 400px;
+}
+
+button:hover {
+  background: deepskyblue;
+}
