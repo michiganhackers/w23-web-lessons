@@ -2,6 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script src="script.js"></script>
     <title>Cats</title>
   </head>
   <body>
@@ -21,19 +22,31 @@
         <li>Tabby</li>
         <li>British Shorthair</li>
       </ul>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg" />
+      <img
+        onclick="meow()"
+        src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg"
+      />
       <p>Pictured above: Tabby cat</p>
     </div>
     <div>
       <h2>Adopt a Cat</h2>
       <p>If you're interested in adopting a cat, please fill out the form below:</p>
-      <input placeholder="Name" />
+      <input
+        id="form-name"
+        placeholder="Name"
+      />
       <br />
-      <input placeholder="Email" />
+      <input
+        id="form-email"
+        placeholder="Email"
+      />
       <br />
-      <input placeholder="Phone Number" />
+      <input
+        id="form-phone"
+        placeholder="Phone Number"
+      />
       <br />
-      <button>Submit</button>
+      <button onclick="submit_form()">Submit</button>
     </div>
   </body>
 </html>
