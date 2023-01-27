@@ -1,30 +1,37 @@
-console.log('Hello World!');
+console.log("Hello World!");
 
-console.log(' /\\_/\\');
-console.log('( o.o )');
-console.log(' > ^ <');
+console.log(" /\\_/\\");
+console.log("( o.o )");
+console.log(" > ^ <");
 
-function meow() {
-  window.alert('Meow!');
+let catPicture = document.getElementById("cat-picture");
+
+catPicture.onclick = function meow() {
+  window.alert("Meow!");
 }
 
-function submit_form() {
-  let name = document.getElementById('form-name').value;
-  let email = document.getElementById('form-email').value;
-  let phone = document.getElementById('form-phone').value;
+let formName = document.getElementById("form-name");
+let formEmail = document.getElementById("form-email");
+let formPhone = document.getElementById("form-phone");
+let formButton = document.getElementById("form-button");
+
+formButton.onclick = function submit_form() {
+  let name = formName.value;
+  let email = formEmail.value;
+  let phone = formPhone.value;
 
   if (!name) {
-    window.alert('Please enter a name');
+    window.alert("Please enter a name");
     return;
   }
   if (!email) {
-    window.alert('Please enter an email');
+    window.alert("Please enter an email");
     return;
   }
   if (!phone) {
-    window.alert('Please enter a phone number');
+    window.alert("Please enter a phone number");
     return;
   }
 
-  window.alert('Name: ' + name + '\nEmail: ' + email + '\nPhone: ' + phone);
+  window.alert("Name: " + name + "\nEmail: " + email + "\nPhone: " + phone);
 }
