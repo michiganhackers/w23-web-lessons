@@ -1,0 +1,18 @@
+{
+  "name": "complete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js football.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michiganhackers/w23-web-lessons.git"
+  },
+  "author": "",
+  "homepage": "https://github.com/michiganhackers/w23-web-lessons#readme",
+  "dependencies": {
+    "table": "^6.8.1"
+  }
+}
