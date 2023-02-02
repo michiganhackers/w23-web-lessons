@@ -1,0 +1,29 @@
+[
+    {
+        "year": 2022,
+        "conference": "Big Ten",
+        "wins": 13,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.929,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2021,
+        "conference": "Big Ten",
+        "wins": 12,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.857,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2020,
+        "conference": "Big Ten",
+        "wins": 2,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.333,
+        "coach": "Jim Harbaugh"
+    }
+]
