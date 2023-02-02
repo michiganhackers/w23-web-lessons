@@ -1,0 +1,15 @@
+{
+  "name": "complete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js something.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michiganhackers/w23-web-lessons.git"
+  },
+  "author": "",
+  "homepage": "https://github.com/michiganhackers/w23-web-lessons#readme"
+}
