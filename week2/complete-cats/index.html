@@ -2,7 +2,6 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css" />
-    <script src="script.js"></script>
     <title>Cats</title>
   </head>
   <body>
@@ -23,7 +22,7 @@
         <li>British Shorthair</li>
       </ul>
       <img
-        onclick="meow()"
+        id="cat-picture"
         src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg"
       />
       <p>Pictured above: Tabby cat</p>
@@ -46,7 +45,8 @@
         placeholder="Phone Number"
       />
       <br />
-      <button onclick="submit_form()">Submit</button>
+      <button id="form-button">Submit</button>
     </div>
+    <script src="script.js"></script>
   </body>
 </html>
