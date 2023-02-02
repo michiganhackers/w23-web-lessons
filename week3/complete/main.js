@@ -17,8 +17,3 @@ fs.readFile(args[0], (err, data) => {
 })
 
 
-const arr = [1, 2, 3, 4, 5];
-const oddSquares = arr
-    .map(x => x*x)
-    .filter(x => x % 2)
-// [1, 9, 25]
