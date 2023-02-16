@@ -1,0 +1,23 @@
+
+#user > img {
+    width: 100px;
+    height: 100px;
+}
+
+#repos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#repos > div {
+    width: 48%;
+    margin: 1%;
+    padding: 4px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px 2px black;
+}
+
+#repos p:first-of-type {
+    font-size: small;
+    font-weight: bold;
+}
