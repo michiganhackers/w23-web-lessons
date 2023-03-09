@@ -26,3 +26,7 @@ tr:first-of-type th {
   padding-left: 8px;
   padding-right: 8px;
 }
+
+ul {
+  text-align: initial;
+}
