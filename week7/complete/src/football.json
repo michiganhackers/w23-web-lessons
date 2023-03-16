@@ -1,0 +1,1181 @@
+[
+    {
+        "year": 2022,
+        "conference": "Big Ten",
+        "wins": 13,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.929,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2021,
+        "conference": "Big Ten",
+        "wins": 12,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.857,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2020,
+        "conference": "Big Ten",
+        "wins": 2,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.333,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2019,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.692,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2018,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.769,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2017,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 5,
+        "ties": 0,
+        "winLossPercent": 0.615,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2016,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.769,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2015,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.769,
+        "coach": "Jim Harbaugh"
+    },
+    {
+        "year": 2014,
+        "conference": "Big Ten",
+        "wins": 5,
+        "losses": 7,
+        "ties": 0,
+        "winLossPercent": 0.417,
+        "coach": "Brady Hoke"
+    },
+    {
+        "year": 2013,
+        "conference": "Big Ten",
+        "wins": 7,
+        "losses": 6,
+        "ties": 0,
+        "winLossPercent": 0.538,
+        "coach": "Brady Hoke"
+    },
+    {
+        "year": 2012,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 5,
+        "ties": 0,
+        "winLossPercent": 0.615,
+        "coach": "Brady Hoke"
+    },
+    {
+        "year": 2011,
+        "conference": "Big Ten",
+        "wins": 11,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.846,
+        "coach": "Brady Hoke"
+    },
+    {
+        "year": 2010,
+        "conference": "Big Ten",
+        "wins": 7,
+        "losses": 6,
+        "ties": 0,
+        "winLossPercent": 0.538,
+        "coach": "Rich Rodriguez"
+    },
+    {
+        "year": 2009,
+        "conference": "Big Ten",
+        "wins": 5,
+        "losses": 7,
+        "ties": 0,
+        "winLossPercent": 0.417,
+        "coach": "Rich Rodriguez"
+    },
+    {
+        "year": 2008,
+        "conference": "Big Ten",
+        "wins": 3,
+        "losses": 9,
+        "ties": 0,
+        "winLossPercent": 0.25,
+        "coach": "Rich Rodriguez"
+    },
+    {
+        "year": 2007,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.692,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 2006,
+        "conference": "Big Ten",
+        "wins": 11,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.846,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 2005,
+        "conference": "Big Ten",
+        "wins": 7,
+        "losses": 5,
+        "ties": 0,
+        "winLossPercent": 0.583,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 2004,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.75,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 2003,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.769,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 2002,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.769,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 2001,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 2000,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.75,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 1999,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.833,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 1998,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.769,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 1997,
+        "conference": "Big Ten",
+        "wins": 12,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 1996,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 1995,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.692,
+        "coach": "Lloyd Carr"
+    },
+    {
+        "year": 1994,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Gary Moeller"
+    },
+    {
+        "year": 1993,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Gary Moeller"
+    },
+    {
+        "year": 1992,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 0,
+        "ties": 3,
+        "winLossPercent": 0.875,
+        "coach": "Gary Moeller"
+    },
+    {
+        "year": 1991,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.833,
+        "coach": "Gary Moeller"
+    },
+    {
+        "year": 1990,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.75,
+        "coach": "Gary Moeller"
+    },
+    {
+        "year": 1989,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.833,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1988,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 2,
+        "ties": 1,
+        "winLossPercent": 0.792,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1987,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1986,
+        "conference": "Big Ten",
+        "wins": 11,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.846,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1985,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 1,
+        "ties": 1,
+        "winLossPercent": 0.875,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1984,
+        "conference": "Big Ten",
+        "wins": 6,
+        "losses": 6,
+        "ties": 0,
+        "winLossPercent": 0.5,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1983,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.75,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1982,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1981,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.75,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1980,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.833,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1979,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1978,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.833,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1977,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.833,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1976,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.833,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1975,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 2,
+        "ties": 2,
+        "winLossPercent": 0.75,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1974,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.909,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1973,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 0,
+        "ties": 1,
+        "winLossPercent": 0.955,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1972,
+        "conference": "Big Ten",
+        "wins": 10,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.909,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1971,
+        "conference": "Big Ten",
+        "wins": 11,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.917,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1970,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.9,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1969,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.727,
+        "coach": "Bo Schembechler"
+    },
+    {
+        "year": 1968,
+        "conference": "Big Ten",
+        "wins": 8,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.8,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1967,
+        "conference": "Big Ten",
+        "wins": 4,
+        "losses": 6,
+        "ties": 0,
+        "winLossPercent": 0.4,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1966,
+        "conference": "Big Ten",
+        "wins": 6,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.6,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1965,
+        "conference": "Big Ten",
+        "wins": 4,
+        "losses": 6,
+        "ties": 0,
+        "winLossPercent": 0.4,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1964,
+        "conference": "Big Ten",
+        "wins": 9,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.9,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1963,
+        "conference": "Big Ten",
+        "wins": 3,
+        "losses": 4,
+        "ties": 2,
+        "winLossPercent": 0.444,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1962,
+        "conference": "Big Ten",
+        "wins": 2,
+        "losses": 7,
+        "ties": 0,
+        "winLossPercent": 0.222,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1961,
+        "conference": "Big Ten",
+        "wins": 6,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1960,
+        "conference": "Big Ten",
+        "wins": 5,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.556,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1959,
+        "conference": "Big Ten",
+        "wins": 4,
+        "losses": 5,
+        "ties": 0,
+        "winLossPercent": 0.444,
+        "coach": "Bump Elliott"
+    },
+    {
+        "year": 1958,
+        "conference": "Big Ten",
+        "wins": 2,
+        "losses": 6,
+        "ties": 1,
+        "winLossPercent": 0.278,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1957,
+        "conference": "Big Ten",
+        "wins": 5,
+        "losses": 3,
+        "ties": 1,
+        "winLossPercent": 0.611,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1956,
+        "conference": "Big Ten",
+        "wins": 7,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.778,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1955,
+        "conference": "Big Ten",
+        "wins": 7,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.778,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1954,
+        "conference": "Big Ten",
+        "wins": 6,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1953,
+        "conference": "Big Ten",
+        "wins": 6,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1952,
+        "conference": "Western",
+        "wins": 5,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.556,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1951,
+        "conference": "Western",
+        "wins": 4,
+        "losses": 5,
+        "ties": 0,
+        "winLossPercent": 0.444,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1950,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 3,
+        "ties": 1,
+        "winLossPercent": 0.65,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1949,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 2,
+        "ties": 1,
+        "winLossPercent": 0.722,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1948,
+        "conference": "Western",
+        "wins": 9,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Bennie Oosterbaan"
+    },
+    {
+        "year": 1947,
+        "conference": "Western",
+        "wins": 10,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1946,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 2,
+        "ties": 1,
+        "winLossPercent": 0.722,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1945,
+        "conference": "Western",
+        "wins": 7,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.7,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1944,
+        "conference": "Western",
+        "wins": 8,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.8,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1943,
+        "conference": "Western",
+        "wins": 8,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.889,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1942,
+        "conference": "Western",
+        "wins": 7,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.7,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1941,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 1,
+        "ties": 1,
+        "winLossPercent": 0.813,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1940,
+        "conference": "Western",
+        "wins": 7,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.875,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1939,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.75,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1938,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 1,
+        "ties": 1,
+        "winLossPercent": 0.813,
+        "coach": "Fritz Crisler"
+    },
+    {
+        "year": 1937,
+        "conference": "Western",
+        "wins": 4,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.5,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1936,
+        "conference": "Western",
+        "wins": 1,
+        "losses": 7,
+        "ties": 0,
+        "winLossPercent": 0.125,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1935,
+        "conference": "Western",
+        "wins": 4,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.5,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1934,
+        "conference": "Western",
+        "wins": 1,
+        "losses": 7,
+        "ties": 0,
+        "winLossPercent": 0.125,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1933,
+        "conference": "Western",
+        "wins": 7,
+        "losses": 0,
+        "ties": 1,
+        "winLossPercent": 0.938,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1932,
+        "conference": "Western",
+        "wins": 8,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1931,
+        "conference": "Western",
+        "wins": 8,
+        "losses": 1,
+        "ties": 1,
+        "winLossPercent": 0.85,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1930,
+        "conference": "Western",
+        "wins": 8,
+        "losses": 0,
+        "ties": 1,
+        "winLossPercent": 0.944,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1929,
+        "conference": "Western",
+        "wins": 5,
+        "losses": 3,
+        "ties": 1,
+        "winLossPercent": 0.611,
+        "coach": "Harry Kipke"
+    },
+    {
+        "year": 1928,
+        "conference": "Western",
+        "wins": 3,
+        "losses": 4,
+        "ties": 1,
+        "winLossPercent": 0.438,
+        "coach": "Tad Wieman"
+    },
+    {
+        "year": 1927,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.75,
+        "coach": "Tad Wieman"
+    },
+    {
+        "year": 1926,
+        "conference": "Western",
+        "wins": 7,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.875,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1925,
+        "conference": "Western",
+        "wins": 7,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.875,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1924,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.75,
+        "coach": "George Little"
+    },
+    {
+        "year": 1923,
+        "conference": "Western",
+        "wins": 8,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1922,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 0,
+        "ties": 1,
+        "winLossPercent": 0.929,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1921,
+        "conference": "Western",
+        "wins": 5,
+        "losses": 1,
+        "ties": 1,
+        "winLossPercent": 0.786,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1920,
+        "conference": "Western",
+        "wins": 5,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.714,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1919,
+        "conference": "Western",
+        "wins": 3,
+        "losses": 4,
+        "ties": 0,
+        "winLossPercent": 0.429,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1918,
+        "conference": "Western",
+        "wins": 5,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1917,
+        "conference": "Western",
+        "wins": 8,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.8,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1916,
+        "conference": "Ind",
+        "wins": 7,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.778,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1915,
+        "conference": "Ind",
+        "wins": 4,
+        "losses": 3,
+        "ties": 1,
+        "winLossPercent": 0.563,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1914,
+        "conference": "Ind",
+        "wins": 6,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.667,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1913,
+        "conference": "Ind",
+        "wins": 6,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.857,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1912,
+        "conference": "Ind",
+        "wins": 5,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.714,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1911,
+        "conference": "Ind",
+        "wins": 5,
+        "losses": 1,
+        "ties": 2,
+        "winLossPercent": 0.75,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1910,
+        "conference": "Ind",
+        "wins": 3,
+        "losses": 0,
+        "ties": 3,
+        "winLossPercent": 0.75,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1909,
+        "conference": "Ind",
+        "wins": 6,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.857,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1908,
+        "conference": "Ind",
+        "wins": 5,
+        "losses": 2,
+        "ties": 1,
+        "winLossPercent": 0.688,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1907,
+        "conference": "Ind",
+        "wins": 5,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.833,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1906,
+        "conference": "Western",
+        "wins": 4,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.8,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1905,
+        "conference": "Western",
+        "wins": 12,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.923,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1904,
+        "conference": "Western",
+        "wins": 10,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1903,
+        "conference": "Western",
+        "wins": 11,
+        "losses": 0,
+        "ties": 1,
+        "winLossPercent": 0.958,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1902,
+        "conference": "Western",
+        "wins": 11,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1901,
+        "conference": "Western",
+        "wins": 11,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Fielding Yost"
+    },
+    {
+        "year": 1900,
+        "conference": "Western",
+        "wins": 7,
+        "losses": 2,
+        "ties": 1,
+        "winLossPercent": 0.75,
+        "coach": "Biff Lea"
+    },
+    {
+        "year": 1899,
+        "conference": "Western",
+        "wins": 8,
+        "losses": 2,
+        "ties": 0,
+        "winLossPercent": 0.8,
+        "coach": "Gustave Ferbert"
+    },
+    {
+        "year": 1898,
+        "conference": "Western",
+        "wins": 10,
+        "losses": 0,
+        "ties": 0,
+        "winLossPercent": 1,
+        "coach": "Gustave Ferbert"
+    },
+    {
+        "year": 1897,
+        "conference": "Western",
+        "wins": 6,
+        "losses": 1,
+        "ties": 1,
+        "winLossPercent": 0.813,
+        "coach": "Gustave Ferbert"
+    },
+    {
+        "year": 1896,
+        "conference": "Western",
+        "wins": 9,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.9,
+        "coach": "William Ward"
+    },
+    {
+        "year": 1895,
+        "conference": "Ind",
+        "wins": 8,
+        "losses": 1,
+        "ties": 0,
+        "winLossPercent": 0.889,
+        "coach": "William McCauley"
+    },
+    {
+        "year": 1894,
+        "conference": "Ind",
+        "wins": 9,
+        "losses": 1,
+        "ties": 1,
+        "winLossPercent": 0.864,
+        "coach": "William McCauley"
+    },
+    {
+        "year": 1893,
+        "conference": "Ind",
+        "wins": 7,
+        "losses": 3,
+        "ties": 0,
+        "winLossPercent": 0.7,
+        "coach": "Frank Barbour"
+    },
+    {
+        "year": 1892,
+        "conference": "Ind",
+        "wins": 7,
+        "losses": 5,
+        "ties": 0,
+        "winLossPercent": 0.583,
+        "coach": "Frank Barbour"
+    }
+]
